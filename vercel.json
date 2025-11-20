@@ -14,7 +14,7 @@
     
     { "src": "/Jameelpass", "dest": "/Jameelpass.js" },
     { "src": "/Mamtaz", "dest": "/Mamtaz.js" },
-    { "src": "/Mamtazpasss", "dest": "/Mamtazpass.js" },
+    { "src": "/Mamtazpasss", "dest": "/Mamtazpass.js" }
     
   ]
 }
